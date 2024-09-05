@@ -42,7 +42,7 @@ Welcome to the Rock, Paper, Scissors Game! This is a simple browser-based implem
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors.git
+   git clone https://github.com/rajbasnet123789/rock-paper-scissors.git
    ```
 2. **Open the Game**: 
    Open `index2.html` in your web browser to start playing.
