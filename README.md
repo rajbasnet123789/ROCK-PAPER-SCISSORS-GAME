@@ -6,7 +6,7 @@ Welcome to the Rock, Paper, Scissors Game! This is a simple browser-based implem
 
 - **Play Against Computer**: Engage in a game where you choose rock, paper, or scissors, and the computer will randomly make its choice.
 - **Results Display**: Get immediate feedback on the outcome of each round, including whether you won, lost, or tied.
-- **Replay Option**: After each round, you have the option to play again or exit the game.
+- **Replay Option**: After each round, you have the option to play again or exit the g
 
 ## Getting Started
 
